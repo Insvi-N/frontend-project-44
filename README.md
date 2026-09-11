@@ -10,6 +10,9 @@
 ## Стек
 
 - JavaScript
+- Node.js
+- npm
+- ESLin
 
 ## Установка
 
@@ -23,7 +26,7 @@ cd frontend-project-44
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+https://asciinema.org/a/Vyz5SWFUgoEqR5oX
 ---
 
 <details>
