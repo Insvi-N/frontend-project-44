@@ -25,5 +25,9 @@
     "@stylistic/eslint-plugin": "^5.10.0",
     "eslint": "^10.10.0",
     "globals": "^17.12.0"
+  },
+    "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   }
 }
