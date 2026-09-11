@@ -14,7 +14,7 @@ const runGame = () => {
   
   while (userCorrectAnswerCounter < 3) {
 
-    const randomInt = Math.random() > 0.5 ? Math.floor(Math.random() * Number.MAX_SAFE_INTEGER) : -Math.floor(Math.random() * Number.MAX_SAFE_INTEGER);
+    const randomInt = Math.floor(Math.random()*100);
     const correctAnswer = isEven(randomInt) ? 'yes' : 'no';
     console.log(`Question: ${randomInt}`);
     const answer = readlineSync.question('Your answer: ');
