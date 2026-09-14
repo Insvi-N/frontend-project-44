@@ -28,6 +28,8 @@ cd frontend-project-44
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 Пример игры "Чет-Нечет" - https://asciinema.org/a/Vyz5SWFUgoEqR5oX
 Пример игры "НОД" - https://asciinema.org/a/5RUauymxd4ukziJh
+Пример игры "Прогрессия" - https://asciinema.org/a/JmSfjiQO9fiDIpa3
+Пример игры "Простое ли число" - https://asciinema.org/a/wJPzqvTjF2rdjCME
 ---
 
 <details>
