@@ -16,7 +16,17 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+Скачайте архив пакета .tgz из репозитория и установите его глобально:
+
+npm install -g ./frontend-project-44-1.0.0.tgz
+
+После установки игры доступны как обычные команды:
+
+brain-even
+brain-calc
+brain-gcd
+brain-progression
+brain-prime
 
 ```bash
 git clone https://github.com/Insvi-N/frontend-project-44.git
