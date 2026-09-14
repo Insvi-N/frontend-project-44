@@ -26,7 +26,8 @@ cd frontend-project-44
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-https://asciinema.org/a/Vyz5SWFUgoEqR5oX
+Пример игры "Чет-Нечет" - https://asciinema.org/a/Vyz5SWFUgoEqR5oX
+Пример игры "НОД" - https://asciinema.org/a/5RUauymxd4ukziJh
 ---
 
 <details>
